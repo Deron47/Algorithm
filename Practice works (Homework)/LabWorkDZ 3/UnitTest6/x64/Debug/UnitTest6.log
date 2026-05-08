@@ -1,0 +1,47 @@
+﻿  UnitTest6.cpp
+C:\Users\Deron Riven\source\repos\Practice 3 Homework\sorts.h(46,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/UnitTest6.cpp")
+  
+C:\Users\Deron Riven\source\repos\UnitTest6\UnitTest6.cpp(19,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/UnitTest6.cpp")
+  
+C:\Users\Deron Riven\source\repos\UnitTest6\UnitTest6.cpp(27,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/UnitTest6.cpp")
+  
+C:\Users\Deron Riven\source\repos\UnitTest6\UnitTest6.cpp(35,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/UnitTest6.cpp")
+  
+C:\Users\Deron Riven\source\repos\UnitTest6\UnitTest6.cpp(43,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/UnitTest6.cpp")
+  
+C:\Users\Deron Riven\source\repos\UnitTest6\UnitTest6.cpp(51,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/UnitTest6.cpp")
+  
+C:\Users\Deron Riven\source\repos\UnitTest6\UnitTest6.cpp(59,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/UnitTest6.cpp")
+  
+C:\Users\Deron Riven\source\repos\UnitTest6\UnitTest6.cpp(69,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/UnitTest6.cpp")
+  
+C:\Users\Deron Riven\source\repos\UnitTest6\UnitTest6.cpp(143,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/UnitTest6.cpp")
+  
+C:\Users\Deron Riven\source\repos\UnitTest6\UnitTest6.cpp(150,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/UnitTest6.cpp")
+  
+C:\Users\Deron Riven\source\repos\UnitTest6\UnitTest6.cpp(157,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/UnitTest6.cpp")
+  
+C:\Users\Deron Riven\source\repos\UnitTest6\UnitTest6.cpp(164,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/UnitTest6.cpp")
+  
+C:\Users\Deron Riven\source\repos\UnitTest6\UnitTest6.cpp(171,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/UnitTest6.cpp")
+  
+C:\Users\Deron Riven\source\repos\UnitTest6\UnitTest6.cpp(178,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/UnitTest6.cpp")
+  
+C:\Users\Deron Riven\source\repos\UnitTest6\UnitTest6.cpp(187,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/UnitTest6.cpp")
+  
+  UnitTest6.vcxproj -> C:\Users\Deron Riven\source\repos\Practice 3 Homework\x64\Debug\UnitTest6.dll
